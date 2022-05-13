@@ -1,0 +1,1 @@
+ini file coba.php di folder view
